@@ -2,6 +2,6 @@
 
 🌱 I’m currently learning C#
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ricardo's GitHub stats](https://github.com/RicardoRuggiero/RicardoRuggiero/blob/main/README.md)](https://github.com/RicardoRuggiero/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoruggiero&show_icons=true&theme=synthwave)
