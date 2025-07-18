@@ -8,7 +8,7 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=ricardoruggiero&show_icons=true&theme=synthwave&hide_rank=true" />
 </p>
---
+
 <h3 align="center">Welcome</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoruggiero&label=Profile%20views&color=0e75b6&style=plastic" alt="ricardoruggiero" /> </p>
