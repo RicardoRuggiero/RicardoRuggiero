@@ -35,7 +35,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/{SEU-USUARIO}/{SEU-REPOSITORIO}/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/RicardoRuggiero/RicardoRuggiero/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
