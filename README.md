@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-<picture>
+<picture >
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/RicardoRuggiero/RicardoRuggiero/output/github-contribution-grid-snake-dark.svg"
