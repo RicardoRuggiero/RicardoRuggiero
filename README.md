@@ -5,10 +5,10 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ricardoruggiero&label=Visualizações%20do%20Perfil&color=0e75b6&style=plastic" alt="Contador de visualizações do perfil"/>
 </p>
-
+<p align="left">(๑•̀ㅂ•́)و✧ (∩^o^)⊃━☆ ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗</p><p align="right">˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚⋆𖦹˚｡⋆°˚🦕𓂃ִֶָ🪽་༘࿐..</p>
 <p align="center">
-  🌱 I'm currently learning <strong>C#, Angular, AngularJS and Python</strong>.<br>
-  🔭 I'm interested in areas like <strong>game development with Unity, AI & Frontend</strong>.<br>
+  🌱 I'm <strong>currently</strong> learning <strong>Angular, C# and Python</strong>.<br>
+  🔭 I'm interested in areas like <strong>game development</strong> with Unity, <strong>AI</strong> & <strong>Frontend</strong>.<br>
   💬 Fique à vontade para se <strong>conectar</strong> e trocar <strong>ideias</strong>!<br>
   👽 Feel free to <strong>connect</strong> and exchange <strong>ideas</strong>! 💬
 </p>
