@@ -1,4 +1,4 @@
-<h1 align="center">Olá<br>👑<br>I'm Ricardo Ruggiero Oliveira</h1>
+<h1 align="center">Olá<br>👽<br>I'm Ricardo Ruggiero Oliveira</h1>
 <h3 align="center"> I am studying Systems Analysis and Development </h3>
 <h2 align="center"> I live in Brazil, I like Music and Arts </h2>
 
@@ -10,7 +10,7 @@
   🌱 I'm <strong>currently</strong> learning <strong>Angular, C# and Python</strong>.<br>
   🔭 I'm interested in areas like <strong>game development</strong> with Unity, <strong>AI</strong> & <strong>Frontend</strong>.<br>
   💬 Fique à vontade para se <strong>conectar</strong> e trocar <strong>ideias</strong>!<br>
-  👽 Feel free to <strong>connect</strong> and exchange <strong>ideas</strong>! 💬
+  🕊️ Feel free to <strong>connect</strong> and exchange <strong>ideas</strong>! 💬
 </p>
 
 <p align="center">
