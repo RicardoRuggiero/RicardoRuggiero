@@ -5,7 +5,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ricardoruggiero&label=Visualizações%20do%20Perfil&color=0e75b6&style=plastic" alt="Contador de visualizações do perfil"/>
 </p>
-<p align="left">(๑•̀ㅂ•́)و✧ (∩^o^)⊃━☆ ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ</p><p align="right">⋆𖦹˚｡⋆°˚🦕𓂃ִֶָ🪽་༘࿐..</p>
+<p align="left">(๑•̀ㅂ•́)و✧ (∩^o^)⊃━☆ ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗</p><p align="right">⋆𖦹˚｡⋆°˚🦕𓂃ִֶָ🪽་༘࿐..</p>
 <p align="center">
   🌱 I'm <strong>currently</strong> learning <strong>Angular, C# and Python</strong>.<br>
   🔭 I'm interested in areas like <strong>game development</strong> with Unity, <strong>AI</strong> & <strong>Frontend</strong>.<br>
