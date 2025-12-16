@@ -8,7 +8,7 @@
 <p align="left">(๑•̀ㅂ•́)و✧ (∩^o^)⊃━☆ ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ</p><p align="right">⋆𖦹˚｡⋆°˚🦕𓂃ִֶָ🪽་༘࿐..</p>
 <p align="center">
   🌱 I'm <strong>currently</strong> learning <strong>Angular, C# and Python</strong>.<br>
-  🔭 I'm interested in areas like <strong>game development</strong> with Unity, <strong>AI</strong> & <strong>Frontend</strong>.<br>
+  🔭 I'm interested in areas like <strong>Backend</strong>, <strong>AI</strong> & <strong>Frontend</strong>.<br>
   💬 Fique à vontade para se <strong>conectar</strong> e trocar <strong>ideias</strong>!<br>
   🕊️ Feel free to <strong>connect</strong> and exchange <strong>ideas</strong>! 💬
 </p>
