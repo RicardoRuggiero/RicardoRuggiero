@@ -1,13 +1,13 @@
 <h1 align="center">Olá<br>👽<br>I'm Ricardo Ruggiero Oliveira</h1>
 <h3 align="center"> I am studying Systems Analysis and Development </h3>
-<h2 align="center"> I live in Brazil, I like Music and Arts </h2>
+<h2 align="center">   Music 💚 Arts </h2>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ricardoruggiero&label=Visualizações%20do%20Perfil&color=0e75b6&style=plastic" alt="Contador de visualizações do perfil"/>
 </p>
 <p align="left">(๑•̀ㅂ•́)و✧ (∩^o^)⊃━☆ ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ˗ˎˊ</p><p align="right">⋆𖦹˚｡⋆°˚🦕𓂃ִֶָ🪽་༘࿐..</p>
 <p align="center">
-  🌱 I'm <strong>currently</strong> learning <strong>Angular & C#</strong>.<br>
+  🌱 I'm <strong>currently</strong> learning <strong>Angular/React typescript & C#</strong>.<br>
   🔭 I'm interested in fullstack development !<br>
   💬 Fique à vontade para se <strong>conectar</strong> e trocar <strong>ideias</strong>!<br>
   🕊️ Feel free to <strong>connect</strong> and exchange <strong>ideas</strong>! 💬
