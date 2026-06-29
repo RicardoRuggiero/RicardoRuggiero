@@ -1,5 +1,5 @@
 <h1 align="center">Olá<br>👽<br>I'm Ricardo Ruggiero Oliveira</h1>
-<h3 align="center"> I am studying Systems Analysis and Development </h3>
+<h3 align="center"> Studying Systems Analysis and Development </h3>
 <h2 align="center">   Music 💚 Arts </h2>
 
 <p align="center"> 
