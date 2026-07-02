@@ -14,10 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoruggiero&show_icons=true&theme=synthwave&locale=pt-br&layout=compact" alt="Linguagens mais usadas por Ricardo" />
-</p>
-
-<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
